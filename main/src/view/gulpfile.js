@@ -6,16 +6,23 @@ var source = require('vinyl-source-stream');
 var stringify = require('stringify');
 var sassify = require('sassify');
 
-gulp.task('connect', ['copy'], function () {
+gulp.task('watch', () => {
   gulp.watch('app/**/js/**/*.js', ['copy']);
   gulp.watch('app/**/js/**/*.html', ['copy']);
   gulp.watch('app/**/js/**/*.scss', ['copy']);
   watch('dist').pipe(connect.reload());
+})
+
+gulp.task('connect', ['copy'], function () {
   connect.server({
     root: 'dist',
     livereload: true,
     port: 4000
   });
+});
+
+gulp.task('stop-server', function() {
+  connect.serverClose();
 });
 
 gulp.task('browserify', function () {
@@ -38,4 +45,4 @@ gulp.task('copy', ['browserify'], function() {
   .pipe(gulp.dest('dist'));
 });
 
-gulp.task('default', ['browserify', 'copy', 'connect']);
+gulp.task('default', ['browserify', 'copy', 'connect', 'watch']);
