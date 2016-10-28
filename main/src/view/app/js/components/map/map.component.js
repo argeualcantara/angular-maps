@@ -1,13 +1,15 @@
 import './map.scss';
 
+import { ZOOM_VALUES, TILE_LAYERS } from '../../app.constants';
+
 class MapController {
   constructor(mapService) {
     this.mapService = mapService;
-    this.mapService.map = L.map('mapid').setView(this.mapService.currentPath[0], 17);
+    this.mapService.map = L.map('mapid').setView(this.mapService.currentPath[0], ZOOM_VALUES.initialZoom);
 
-    L.tileLayer('https://api.mapbox.com/styles/v1/argeualcantara/ciuslx5ql00vq2inoc0eemgod/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYXJnZXVhbGNhbnRhcmEiLCJhIjoiY2l1c2x2b2g2MDBiZzJ0cnY1NDB3MmtvOSJ9.wm7SbtgDlapj2U_Z42byTg', {
+    L.tileLayer(TILE_LAYERS[this.tileLayer], {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-        maxZoom: 20
+        maxZoom: ZOOM_VALUES.maxZoom
     }).addTo(this.mapService.map);
 
     let markerStart = L.marker(this.mapService.currentPath[0]).addTo(this.mapService.map);
@@ -46,5 +48,8 @@ MapController.$inject = ['mapService'];
 export const MapComponent = {
   controller: MapController,
   controllerAs: '$ctrl',
-  template: require('./map.html')
+  template: require('./map.html'),
+  bindings: {
+    tileLayer: '@'
+  }
 }
