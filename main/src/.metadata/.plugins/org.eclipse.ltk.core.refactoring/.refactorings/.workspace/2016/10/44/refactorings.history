@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AngularMaps&apos; to &apos;AngularMapsWebApi&apos;" description="Rename resource &apos;AngularMaps&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AngularMaps" name="AngularMapsWebApi" stamp="1477616108603" updateReferences="true"/>
+</session>

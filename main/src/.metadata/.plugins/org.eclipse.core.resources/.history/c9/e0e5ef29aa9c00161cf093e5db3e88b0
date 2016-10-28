@@ -1,0 +1,5 @@
+package AngularMaps.Models;
+
+public class Greetings {
+
+}

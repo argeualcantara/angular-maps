@@ -1,0 +1,5 @@
+package AngularMaps.WebApi;
+
+public class GreetingController {
+
+}
