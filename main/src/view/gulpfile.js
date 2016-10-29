@@ -9,6 +9,7 @@ var sassify = require('sassify');
 gulp.task('watch', () => {
   gulp.watch('app/**/js/**/*.js', ['copy']);
   gulp.watch('app/**/js/**/*.html', ['copy']);
+  gulp.watch('app/**/*.html', ['copy']);
   gulp.watch('app/**/js/**/*.scss', ['copy']);
   watch('dist').pipe(connect.reload());
 })

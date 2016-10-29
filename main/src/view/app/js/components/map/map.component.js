@@ -5,28 +5,22 @@ import { ZOOM_VALUES, TILE_LAYERS } from '../../app.constants';
 class MapController {
   constructor(mapService) {
     this.mapService = mapService;
-    this.mapService.map = L.map('mapid').setView(this.mapService.currentPath[0], ZOOM_VALUES.initialZoom);
+    this.mapService.map = L.map('mapid').setView([-3.8127535,-38.4976114,], ZOOM_VALUES.initialZoom);
 
     L.tileLayer(TILE_LAYERS[this.tileLayer], {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
         maxZoom: ZOOM_VALUES.maxZoom
     }).addTo(this.mapService.map);
 
-    let markerStart = L.marker(this.mapService.currentPath[0]).addTo(this.mapService.map);
-    let markerEnd = L.marker(this.mapService.currentPath[this.mapService.currentPath.length-1]).addTo(this.mapService.map);
-    this.mapService.currentMarkers.push(markerStart);
-    this.mapService.currentMarkers.push(markerEnd);
-    var polyline = L.polyline(this.mapService.currentPath).addTo(this.mapService.map);
-
     this.mapService.map.on('click', (e) => {
       let marker = L.marker(e.latlng).addTo(this.mapService.map);
       this.mapService.currentMarkers.push(marker);
-      console.log(this.mapService.currentMarkers);
+      this.mapService.currentPathStops.push({location: e.latlng.lat+', '+e.latlng.lng, stopover: true});
     });
   }
 
   removeAllMarkers(){
-    this.mapService.map.removeLayer(this.mapService.currentPath);
+    this.mapService.map.removeLayer(this.mapService.currentRoute);
     for(let marker of this.mapService.currentMarkers) {
       this.mapService.map.removeLayer(marker);
     }
@@ -34,12 +28,7 @@ class MapController {
   }
 
   createPath() {
-    let latlngs = [];
-    for(let marker of this.mapService.currentMarkers) {
-      latlngs.push(marker._latlng);
-    }
-    var polyline = L.polyline(latlngs).addTo(this.mapService.map);
-    this.mapService.currentPath = polyline;
+    this.mapService.getPath();
   }
 }
 

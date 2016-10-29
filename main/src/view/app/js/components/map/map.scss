@@ -1,5 +1,9 @@
-#mapid {
-  width: 40%;
-  height: 600px;
-  float: right;
+map-component {
+	#mapid {
+	  height: 600px;
+	}
+
+	section.row {
+		margin-bottom:	15px;
+	}
 }

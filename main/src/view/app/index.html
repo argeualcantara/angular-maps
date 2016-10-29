@@ -2,10 +2,24 @@
 <html ng-app="angular-maps">
 <head>
   <title>Trixlog Test</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css"/>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyANwU-2HJ3ncYBTtk58mxfbs4QacjKsgkg"></script>
   <script src="js/bundle.js"></script>
 </head>
 <body>
-  <map-component tile-layer="mapBox"></map-component>
+	<div class="container">
+		<header-component></header-component>
+		<section class="row">
+			<div class="col-md-6">
+				<map-component tile-layer="mapBox"></map-component>
+			</div>
+			<div class="col-md-6">
+				<form-component></form-component>
+			</div>
+		</section>
+	</div>
 </body>
 </html>
