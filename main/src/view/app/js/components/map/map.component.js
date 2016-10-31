@@ -13,8 +13,7 @@ class MapController {
 		}).addTo(this.mapService.map);
 
 		this.mapService.map.on('click', (e) => {
-			let marker = L.marker(e.latlng).addTo(this.mapService.map);
-			this.mapService.currentMarkers.push(marker);
+			this.mapService.addMarker(e.latlng);
 			this.mapService.currentPathStops.push({location: e.latlng.lat+', '+e.latlng.lng, stopover: true});
 		});
 	}

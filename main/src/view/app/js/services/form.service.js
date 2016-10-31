@@ -10,7 +10,8 @@ export class FormService {
   saveCurrentRoute() {
     this.formApiService.saveRoute(this.currentRoute).then(() => {
       if(this.currentRoute.index != null) {
-        this.routeList[this.currentRoute.index] = this.currentRoute;
+        let index = this.currentRoute.index;
+        this.routeList[index] = this.currentRoute;
       } else {
         this.routeList.push(this.currentRoute);
       }
@@ -26,9 +27,11 @@ export class FormService {
 
     for(let stop of this.currentRoute.routeStops) {
       let latlng = stop.location.split(',');
-      let latlngObj = {lat: latlng[0], lng: latlng[1]};
-      let marker = L.marker(latlngObj).addTo(this.mapService.map);
-      this.mapService.currentMarkers.push(marker);
+      let latlngObj = {
+        lat: latlng[0],
+        lng: latlng[1]
+      };
+      this.mapService.addMarker(latlngObj);
       this.mapService.currentPathStops.push(stop);
     }
 
