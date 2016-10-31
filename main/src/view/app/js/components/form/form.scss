@@ -1,3 +1,13 @@
-.clearfix {
-	margin-bottom: 50px;
+form-component {
+  section.row:last-child {
+    margin-bottom: 10px;
+  }
+
+  input.required {
+    border: 1px solid red;
+    &:focus {
+    border: 1px solid red;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.0),0 0 8px rgba(255,10,10,.6);
+    }
+  }
 }

@@ -1,11 +1,13 @@
-<div class="clearfix"></div>
-
 <section class="row">
-	<div class="col-md-6"><label>Route Name: <input type="text" class="form-control" ng-model="$ctrl.routeName"/></label></div>
-	<div class="col-md-6"><label>Route Date: <input type="date" class="form-control" ng-model="$ctrl.routeDate"/></label></div>
+  <div class="col-md-6"><label>Route Name: <input type="text" required class="form-control" ng-model="$ctrl.formService.currentRoute.routeName"/></label></div>
+  <div class="col-md-6"><label>Route Date: <input type="date" class="form-control" ng-model="$ctrl.formService.currentRoute.routeDate"/></label></div>
+</section>
+<section class="row">
+	<div class="col-md-6"><label>Car ID: <input type="text" required class="form-control" ng-model="$ctrl.formService.currentRoute.carId"/></label></div>
 </section>
 <section class="row">
 	<div class="col-md-12">
-		<a class="btn btn-primary" ng-click="$ctrl.saveRoute()">Save</a>
+    <a class="btn btn-primary" ng-click="$ctrl.saveRoute()">Save</a>
+		<a class="btn btn-primary" ng-if="$ctrl.formService.isEditing" ng-click="$ctrl.cancelEdit()">Cancel</a>
 	</div>
 </section>
