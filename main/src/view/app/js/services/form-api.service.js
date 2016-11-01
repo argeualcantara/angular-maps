@@ -1,44 +1,35 @@
+import { API_URLS } from '../app.constants';
+
 export class FormApiService {
 	constructor($http) {
 		this.http = $http;
 	}
 
 	saveRoute(route) {
-		let req = {
-			method: 'POST',
-			url: 'http://localhost:8080/route',
-			data: route,
-			headers: {
-				'Accept': 'application/json',
-				'Content-Type': 'application/json'
-			}
-		};
+		let req = this.getRequest(API_URLS.ROUTE, 'POST');
+		req.data = route;
 		return this.http(req);
 	}
 
-	editRoute(route) {
-		let req = {
-			method: 'POST',
-			url: 'localhost:8080/route/'+route.routeId,
-			data: route,
-			headers: {
-				'Accept': 'application/json',
-				'Content-Type': 'application/json'
-			}
-		};
+	deleteRoute(route) {
+		let req = this.getRequest(API_URLS.ROUTE + '/' + route.id, 'DELETE');
 		return this.http(req);
 	}
 
 	listAllRoutes() {
-		let req = {
-			method: 'GET',
-			url: 'http://localhost:8080/routes',
+		let req = this.getRequest(API_URLS.ROUTE_LIST, 'GET');
+		return this.http(req);
+	}
+
+	getRequest(url, method) {
+		return {
+			method: method,
+			url: url,
 			headers: {
 				'Accept': 'application/json',
 				'Content-Type': 'application/json'
 			}
 		};
-		return this.http(req);
 	}
 
 }

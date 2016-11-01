@@ -10,18 +10,18 @@ export class FormService {
   getBlankRoute() {
     return {
       routePath: [],
-      routeStops: []
+      routeStops: [],
+      routeName: '',
+      carId: ''
     };
   }
 
   saveCurrentRoute() {
     this.formApiService.saveRoute(this.currentRoute).then(() => {
-      if(this.currentRoute.index != null) {
-        let index = this.currentRoute.index;
-        this.routeList[index] = this.currentRoute;
-      } else {
-        this.routeList.push(this.currentRoute);
-      }
+      this.listAllRoutes().then((response) => {
+        this.routeList = response.data;
+      });
+
       this.mapService.clearMap();
       this.currentRoute = this.getBlankRoute();
     });
@@ -42,6 +42,11 @@ export class FormService {
 
   listAllRoutes() {
     return this.formApiService.listAllRoutes();
+  }
+
+  deleteRoute(index) {
+    let route = this.routeList[index];
+    return this.formApiService.deleteRoute(route);
   }
 
 }

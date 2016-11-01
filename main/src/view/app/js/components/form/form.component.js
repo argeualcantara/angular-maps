@@ -10,17 +10,17 @@ class FormController {
 
 	saveRoute() {
 		if(this.mapService.currentPathStops.length > 1) {
-			angular.element('input[type=text]').removeClass('required');
+			angular.element(document).find('input[type=text]').removeClass('required');
 			this.formService.currentRoute.routeStops = this.mapService.currentPathStops;
 			this.formService.currentRoute.routePath = this.mapService.currentRoutePath._latlngs;
 			console.log(this.formService.currentRoute);
 			this.formService.saveCurrentRoute();
 		} else {
-			if(!this.formService.routeName) {
-				angular.element('input[type=text]:first').addClass('required');
+			if(!this.formService.currentRoute.routeName) {
+				angular.element(document).find('input[type=text]:first').addClass('required');
 			}
-			if(!this.formService.carId) {
-				angular.element('input[type=text]:last').addClass('required');
+			if(!this.formService.currentRoute.carId) {
+				angular.element(document).find('input[type=text]:last').addClass('required');
 			}
 			alert('Make a route with at least two stops');
 		}

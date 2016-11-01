@@ -30,7 +30,7 @@ export class MapService {
 	}
 
 	clearMap() {
-		if(this.currentRoutePath) {
+		if(this.currentRoutePath && this.map) {
 			this.map.removeLayer(this.currentRoutePath);
 			for(let marker of this.currentMarkers) {
 				this.map.removeLayer(marker);
@@ -40,14 +40,18 @@ export class MapService {
 	}
 
 	setCurrentRoutePath(routePath) {
-		let polyline = L.polyline(routePath).addTo(this.map);
-    	this.currentRoutePath = polyline;
+		if(this,map) {
+			let polyline = L.polyline(routePath).addTo(this.map);
+	    	this.currentRoutePath = polyline;
+		}
 	}
 
 	addMarker(latlng) {
+		if(this.map) {
 		let marker = L.marker(latlng).addTo(this.map);
     	this.currentMarkers.push(marker);
+		}
 	}
 }
 
-MapService.$inject =['mapApiService'];
+MapService.$inject = ['mapApiService'];

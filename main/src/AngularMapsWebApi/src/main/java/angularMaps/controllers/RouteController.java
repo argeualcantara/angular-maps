@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import angularMaps.factories.RouteFactory;
 import angularMaps.models.Route;
-import angularMaps.repositories.RouteRepository;
 
 @RestController
 
@@ -20,25 +20,23 @@ import angularMaps.repositories.RouteRepository;
 public class RouteController {
 
 	@Autowired //don't forget the setter
-    private RouteRepository routeRep;
+    private RouteFactory factory;
 	
     @ResponseBody
     @RequestMapping(path = "/route", method = RequestMethod.POST)
     public Route saveRoute(@RequestBody Route route) {
-    	System.out.println(route);
-    	routeRep.save(route);
+    	factory.getRouteRepository().save(route);
         return route;
     }
     
-    @ResponseBody
-    @RequestMapping(path = "/route/{id}", method = RequestMethod.GET)
-    public Route getRoute(@PathVariable Long id) {
-    	return routeRep.findOne(id);
+    @RequestMapping(path = "/route/{id}", method = RequestMethod.DELETE)
+    public void getRoute(@PathVariable Long id) {
+    	factory.getRouteRepository().delete(id);
     }
     
     @ResponseBody
     @RequestMapping(path = "/routes", method = RequestMethod.GET)
     public List<Route> listRoutes() {
-        return (List<Route>) routeRep.findAll();
+        return (List<Route>) factory.getRouteRepository().findAll();
     }
 }

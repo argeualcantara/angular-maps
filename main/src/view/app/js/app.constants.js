@@ -8,3 +8,14 @@ export const TILE_LAYERS = {
 };
 
 export const API_KEY = 'AIzaSyANwU-2HJ3ncYBTtk58mxfbs4QacjKsgkg';
+
+export const HTTP_STATUS = {
+	OK: 200,
+	BAD_REQUEST: 400,
+	SERVER_ERROR: 500
+};
+
+export const API_URLS = {
+	ROUTE: 'http://localhost:8080/route',
+	ROUTE_LIST: 'http://localhost:8080/routes'
+}

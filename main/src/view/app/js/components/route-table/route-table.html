@@ -16,10 +16,10 @@
       <tr ng-repeat="item in $ctrl.formService.routeList track by $index">
         <td>{{ item.routeName }} </td>
         <td>{{ item.carId }} </td>
-        <td>{{ item.routeDate | date : 'yyyy/MM/dd' }}</td>
+        <td>{{ item.routeDate | date : 'dd/MM/yyyy' }}</td>
         <td>
           <div class="glyphicon glyphicon-edit pull-left" ng-click="$ctrl.editRoute($index)"></div>
-          <div class="glyphicon glyphicon-trash pull-right"></div>
+          <div class="glyphicon glyphicon-trash pull-right" ng-click="$ctrl.deleteRoute($index)"></div>
         </td>
       </tr>
     </tbody>
