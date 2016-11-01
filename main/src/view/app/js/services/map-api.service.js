@@ -6,11 +6,15 @@ export class MapApiService {
 		this.directionsService = new google.maps.DirectionsService();
 	}
 
-	getPath(latlngs, callback) {
+	getPath(currentPathStops, callback) {
+		let googleWaypoints = [];
+		for(let stop of currentPathStops) {
+			googleWaypoints.push({location: stop, stopover: true});
+		}
 		let request = {
-			origin: latlngs[0].location,
-			destination: latlngs[latlngs.length -1].location,
-			waypoints: latlngs,
+			origin: googleWaypoints[0].location,
+			destination: googleWaypoints[googleWaypoints.length -1].location,
+			waypoints: googleWaypoints,
 			provideRouteAlternatives: false,
 			travelMode: google.maps.TravelMode.DRIVING
 		}

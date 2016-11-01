@@ -9,11 +9,9 @@ describe('Map Service Test', () => {
 
 	it('clearRoute should empty Map Service arrays', () => {
 		service.currentMarkers.push('a');
-		service.currentPath.push('a');
 		service.currentPathStops.push('a');
 		service.clearRoute();
 		expect(service.currentMarkers).toEqual([]);
-		expect(service.currentPath).toEqual([]);
 		expect(service.currentPathStops).toEqual([]);
 	});
 

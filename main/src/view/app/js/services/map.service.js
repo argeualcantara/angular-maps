@@ -41,12 +41,12 @@ export class MapService {
 
 	setCurrentRoutePath(routePath) {
 		let polyline = L.polyline(routePath).addTo(this.map);
-    this.currentRoutePath = polyline;
+    	this.currentRoutePath = polyline;
 	}
 
 	addMarker(latlng) {
 		let marker = L.marker(latlng).addTo(this.map);
-    this.currentMarkers.push(marker);
+    	this.currentMarkers.push(marker);
 	}
 }
 

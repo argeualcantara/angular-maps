@@ -6,7 +6,6 @@ class FormController {
 	constructor(mapService, formService) {
 		this.mapService = mapService;
 		this.formService = formService;
-		this.formService.routeList = Fixtures.routeList;
 	}
 
 	saveRoute() {
@@ -17,7 +16,13 @@ class FormController {
 			console.log(this.formService.currentRoute);
 			this.formService.saveCurrentRoute();
 		} else {
-			angular.element('input[type=text]').addClass('required');
+			if(!this.formService.routeName) {
+				angular.element('input[type=text]:first').addClass('required');
+			}
+			if(!this.formService.carId) {
+				angular.element('input[type=text]:last').addClass('required');
+			}
+			alert('Make a route with at least two stops');
 		}
 	}
 

@@ -1,8 +1,6 @@
 import 'angular';
 import 'leaflet';
 
-import 'angular-mocks';
-
 import { MapComponent } from './components/map/map.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FormComponent } from './components/form/form.component';
@@ -14,8 +12,9 @@ import { FormService } from './services/form.service';
 import { MapApiService } from './services/map-api.service';
 import { FormApiService } from './services/form-api.service';
 
+let angularModules = [];
 
-angular.module('angular-maps', ['ngMockE2E'])
+angular.module('angular-maps', angularModules)
   .service('mapService', MapService)
   .service('mapApiService', MapApiService)
   .service('formApiService', FormApiService)

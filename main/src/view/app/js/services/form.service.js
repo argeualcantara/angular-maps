@@ -3,8 +3,15 @@ export class FormService {
     this.formApiService = formApiService;
     this.mapService = mapService;
     this.routeList = [];
-    this.currentRoute = null;
+    this.currentRoute = this.getBlankRoute();
     this.isEditing = false;
+  }
+
+  getBlankRoute() {
+    return {
+      routePath: [],
+      routeStops: []
+    };
   }
 
   saveCurrentRoute() {
@@ -16,7 +23,7 @@ export class FormService {
         this.routeList.push(this.currentRoute);
       }
       this.mapService.clearMap();
-      this.currentRoute = null;
+      this.currentRoute = this.getBlankRoute();
     });
   }
 
@@ -25,17 +32,16 @@ export class FormService {
     this.currentRoute = Object.assign({}, this.routeList[index]);
     this.currentRoute.index = index;
 
-    for(let stop of this.currentRoute.routeStops) {
-      let latlng = stop.location.split(',');
-      let latlngObj = {
-        lat: latlng[0],
-        lng: latlng[1]
-      };
-      this.mapService.addMarker(latlngObj);
-      this.mapService.currentPathStops.push(stop);
+    for(let latlng of this.currentRoute.routeStops) {
+      this.mapService.addMarker(latlng);
+      this.mapService.currentPathStops.push(latlng);
     }
 
     this.mapService.setCurrentRoutePath(this.currentRoute.routePath);
+  }
+
+  listAllRoutes() {
+    return this.formApiService.listAllRoutes();
   }
 
 }

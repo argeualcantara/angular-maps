@@ -14,7 +14,7 @@ class MapController {
 
 		this.mapService.map.on('click', (e) => {
 			this.mapService.addMarker(e.latlng);
-			this.mapService.currentPathStops.push({location: e.latlng.lat+', '+e.latlng.lng, stopover: true});
+			this.mapService.currentPathStops.push(e.latlng);
 		});
 	}
 
