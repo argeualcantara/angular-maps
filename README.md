@@ -8,7 +8,7 @@ Prerequisites:
 * Java
 * Maven
 * NodeJS
-* env variables JAVA_PATH and M2_HOME set
+* env variables JAVA_HOME and M2_HOME set
 
 Starting the app:
 * open cmd/power shell
