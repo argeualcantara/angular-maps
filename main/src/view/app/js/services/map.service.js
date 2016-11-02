@@ -2,10 +2,10 @@ export class MapService {
 	constructor(mapApiService) {
 		this.mapApiService = mapApiService;
 		this.map = null;
-		this.clearRoute();
+		this.clearStops();
 	}
 
-	clearRoute() {
+	clearStops() {
 		this.currentMarkers = [];
 		this.currentPathStops = [];
 	}
@@ -13,7 +13,6 @@ export class MapService {
 	getPath() {
 		return this.mapApiService.getPath(this.currentPathStops, (result, status) => {
 			if (status == google.maps.DirectionsStatus.OK) {
-				console.log(result);
 				let currentPath = []
 				for(let leg of result.routes[0].legs) {
 					for(let step of leg.steps) {
@@ -35,12 +34,12 @@ export class MapService {
 			for(let marker of this.currentMarkers) {
 				this.map.removeLayer(marker);
 			}
-			this.clearRoute();
+			this.clearStops();
 		}
 	}
 
 	setCurrentRoutePath(routePath) {
-		if(this,map) {
+		if(this.map) {
 			let polyline = L.polyline(routePath).addTo(this.map);
 	    	this.currentRoutePath = polyline;
 		}

@@ -5,5 +5,14 @@ route-table-component {
 
   .glyphicon {
     cursor: pointer;
+    margin-left: 10px;
+  }
+
+  .align-right {
+  	text-align: right;
+  }
+
+  .invisible {
+  	visibility: hidden;
   }
 }

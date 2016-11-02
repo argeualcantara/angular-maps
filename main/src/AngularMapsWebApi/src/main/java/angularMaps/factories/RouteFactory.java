@@ -1,14 +1,16 @@
 package angularMaps.factories;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import angularMaps.repositories.RouteRepository;
 
+@Component
 public class RouteFactory {
-	@Autowired //don't forget the setter
-    private RouteRepository repository;
+	@Autowired
+    private RouteRepository service;
 	
-	public RouteRepository getRouteRepository() {
-		return repository;
+	public RouteRepository getRouteService() {
+		return service;
 	}
 }

@@ -28,7 +28,7 @@ class FormController {
 
 	cancelEdit() {
 		this.mapService.clearMap();
-		this.formService.currentRoute = null;
+		this.formService.currentRoute = this.formService.getBlankRoute();
 		this.formService.isEditing = false;
 	}
 

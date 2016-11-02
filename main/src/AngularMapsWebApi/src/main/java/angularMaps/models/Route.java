@@ -1,6 +1,5 @@
 package angularMaps.models;
 
-import java.util.Date;
 import java.util.List;
 
 import javax.persistence.CascadeType;
@@ -18,17 +17,17 @@ public class Route {
     @GeneratedValue(strategy=GenerationType.AUTO)
     private Long id;
 	private String routeName;
-	private Date routeDate;
+	private String routeDate;
 	private Long carId;
 	
 
-	@OneToMany(cascade = CascadeType.PERSIST, orphanRemoval = true)
+	@OneToMany(cascade = CascadeType.MERGE)
 	@JoinColumn(name = "path_id")
-	private List<Path> routePath;
+	private List<LatLng> routePath;
 	
-	@OneToMany(cascade = CascadeType.PERSIST, orphanRemoval = true)
+	@OneToMany(cascade = CascadeType.MERGE)
 	@JoinColumn(name = "stop_id")
-	private List<Stop> routeStops;
+	private List<LatLng> routeStops;
 	
 	public Route() {
 		
@@ -46,10 +45,10 @@ public class Route {
 	public void setRouteName(String routeName) {
 		this.routeName = routeName;
 	}
-	public Date getRouteDate() {
+	public String getRouteDate() {
 		return routeDate;
 	}
-	public void setRouteDate(Date routeDate) {
+	public void setRouteDate(String routeDate) {
 		this.routeDate = routeDate;
 	}
 	public Long getCarId() {
@@ -58,16 +57,16 @@ public class Route {
 	public void setCarId(Long carId) {
 		this.carId = carId;
 	}
-	public List<Path> getRoutePath() {
+	public List<LatLng> getRoutePath() {
 		return routePath;
 	}
-	public void setRoutePath(List<Path> routePath) {
+	public void setRoutePath(List<LatLng> routePath) {
 		this.routePath = routePath;
 	}
-	public List<Stop> getRouteStops() {
+	public List<LatLng> getRouteStops() {
 		return routeStops;
 	}
-	public void setRouteStops(List<Stop> routeStops) {
+	public void setRouteStops(List<LatLng> routeStops) {
 		this.routeStops = routeStops;
 	}
 	

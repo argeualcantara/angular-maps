@@ -11,7 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "angularMaps.controllers")
+@ComponentScan(basePackages = "angularMaps")
 @EnableJpaRepositories(basePackages = "angularMaps.repositories")
 @EntityScan(basePackages = "angularMaps.models")
 public class App {

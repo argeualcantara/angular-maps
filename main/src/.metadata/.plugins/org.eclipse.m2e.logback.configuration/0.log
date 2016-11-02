@@ -3811,3 +3811,339 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2016-11-01 16:54:36,457 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
 2016-11-01 16:54:36,462 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-11-01 16:54:36,464 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-01 18:08:54,577 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:08:54,578 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:08:54,584 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:08:54,590 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:08:54,590 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-01 18:09:30,272 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:09:30,273 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:09:30,273 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:09:30,275 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:09:30,278 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-01 18:09:45,360 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:09:45,366 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:09:45,372 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:09:45,377 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:09:45,378 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-01 18:28:17,122 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:28:17,123 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:28:17,127 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-01 18:28:17,133 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-01 18:28:17,136 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:25:00,931 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:00,941 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:00,942 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:00,945 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:00,945 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:25:10,033 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:10,034 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:10,035 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:10,040 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:10,040 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:25:33,924 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:33,925 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:33,925 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:33,927 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:33,928 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:25:44,249 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:44,315 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:44,315 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:25:44,318 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:25:44,318 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:31:08,567 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:08,567 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:08,567 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:08,570 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:08,576 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:31:29,675 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:29,680 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:29,686 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:29,693 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:29,693 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:31:46,853 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:46,853 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:46,857 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:46,863 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:46,867 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:31:48,962 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:48,966 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:48,970 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:31:48,977 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:31:48,977 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:32:05,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:32:05,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:32:05,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:32:05,516 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:32:05,516 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:32:13,440 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:32:13,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:32:13,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:32:13,449 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:32:13,449 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:32:41,255 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:32:41,255 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:32:41,260 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:32:41,266 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:32:41,270 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:40:27,164 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:40:27,288 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:40:27,293 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:40:27,300 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:40:27,301 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:40:35,855 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:40:35,855 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:40:35,855 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:40:35,858 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:40:35,863 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:52:07,467 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:52:07,467 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:52:07,481 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:52:07,490 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:52:07,490 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:52:17,386 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:52:17,387 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:52:17,391 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:52:17,397 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:52:17,403 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:52:20,816 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:52:20,822 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:52:20,826 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:52:20,833 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:52:20,833 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:54:02,596 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:54:02,596 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:54:02,596 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:54:02,597 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:54:02,597 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:54:03,662 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:54:03,662 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:54:03,662 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:54:03,668 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:54:03,668 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:56:04,262 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:04,263 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:04,267 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:04,273 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:04,277 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:56:05,351 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:05,351 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:05,355 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:05,361 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:05,362 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:56:06,454 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:06,455 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:06,455 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:06,456 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:06,460 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:56:07,478 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:07,482 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:07,486 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:56:07,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:56:07,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:57:33,386 [main] WARN  o.e.r.i.c.rcp.TypeBindingAnalyzer - Can't handle class org.eclipse.jdt.internal.compiler.ast.CastExpression as parent of completion location.
+2016-11-02 00:57:47,312 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:57:47,316 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:57:47,320 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:57:47,325 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:57:47,325 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:57:51,180 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:57:51,180 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:57:51,181 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:57:51,182 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:57:51,186 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:58:01,967 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:58:01,973 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:58:01,977 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:58:01,983 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:58:01,983 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 00:59:16,115 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:59:16,116 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:59:16,121 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 00:59:16,127 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 00:59:16,131 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:02:32,462 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:02:32,466 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:02:32,469 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:02:32,474 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:02:32,475 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:02:33,603 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:02:33,603 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:02:33,603 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:02:33,605 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:02:33,605 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:02:37,978 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:02:37,978 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:02:37,979 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:02:37,985 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:02:37,986 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:04:30,452 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:04:30,452 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:04:30,456 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:04:30,461 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:04:30,465 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:04:38,573 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:04:38,579 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:04:38,585 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:04:38,591 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:04:38,592 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:05:30,945 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:05:30,945 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:05:30,945 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:05:30,947 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:05:30,951 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:07:05,315 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:07:05,385 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:07:05,388 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:07:05,394 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:07:05,394 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:07:25,426 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:07:25,430 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:07:25,441 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:07:25,456 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:07:25,468 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:09:54,994 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:09:54,998 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:09:55,003 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:09:55,008 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:09:55,008 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:09:57,636 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:09:57,636 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:09:57,636 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:09:57,638 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:09:57,639 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:10:02,253 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:10:02,253 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:10:02,253 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:10:02,261 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:10:02,261 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:10:13,515 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:10:13,515 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:10:13,519 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:10:13,526 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:10:13,531 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:14:56,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:14:56,304 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:14:56,309 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:14:56,314 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:14:56,314 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:15:06,756 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:15:06,757 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:15:06,757 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:15:06,759 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:15:06,764 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:15:17,041 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:15:17,047 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:15:17,052 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:15:17,057 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:15:17,057 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:15:21,429 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:15:21,430 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:15:21,434 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:15:21,441 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:15:21,446 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:17:18,829 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:18,836 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:18,842 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:18,848 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:18,848 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:17:26,231 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:26,231 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:26,231 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:26,233 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:26,233 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:17:38,360 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:38,360 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:38,361 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:38,422 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:38,422 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:17:39,886 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:39,886 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:39,892 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:17:39,919 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:17:39,925 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:19:02,312 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:19:02,313 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:19:02,320 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:19:02,327 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:19:02,327 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:21:11,830 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:21:11,831 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:21:11,831 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:21:11,833 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:21:11,838 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:21:16,995 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:21:16,995 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:21:16,999 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:21:17,005 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:21:17,006 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:22:31,849 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:31,849 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:31,854 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:31,861 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:31,867 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:22:40,079 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:40,083 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:40,086 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:40,091 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:40,091 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:22:42,184 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:42,184 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:42,184 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:42,185 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:42,186 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:22:45,456 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:45,456 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:45,456 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:22:45,469 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:22:45,470 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:24:02,664 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:02,664 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:02,673 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:02,681 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:02,687 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:24:04,985 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:04,992 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:04,997 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:05,005 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:05,005 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:24:13,861 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:13,861 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:13,861 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:13,863 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:13,867 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:24:27,259 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:27,265 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:27,271 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:27,277 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:27,277 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:24:36,711 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:36,712 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:36,716 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:24:36,723 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:24:36,728 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:25:00,988 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:25:00,993 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:25:00,998 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:25:01,003 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:25:01,003 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:47:43,661 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:47:43,662 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:47:43,662 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:47:43,664 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:47:43,665 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:47:44,691 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:47:44,694 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:47:44,694 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:47:44,707 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:47:44,707 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 01:48:52,906 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:48:52,907 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:48:52,918 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 01:48:52,924 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 01:48:52,930 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources
+2016-11-02 02:31:50,741 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 02:31:50,742 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 02:31:50,814 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\main\resources
+2016-11-02 02:31:50,823 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 02:31:50,823 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Argeu\Documents\GitHub\angular-maps\main\src\AngularMapsWebApi\src\test\resources

@@ -17,9 +17,9 @@
         <td>{{ item.routeName }} </td>
         <td>{{ item.carId }} </td>
         <td>{{ item.routeDate | date : 'dd/MM/yyyy' }}</td>
-        <td>
-          <div class="glyphicon glyphicon-edit pull-left" ng-click="$ctrl.editRoute($index)"></div>
-          <div class="glyphicon glyphicon-trash pull-right" ng-click="$ctrl.deleteRoute($index)"></div>
+        <td class="align-right">
+          <div class="glyphicon glyphicon-edit" ng-click="$ctrl.editRoute($index)"></div>
+          <div ng-class="{invisible: $ctrl.formService.currentRoute.id === item.id}" class="glyphicon glyphicon-trash" ng-click="$ctrl.deleteRoute($index)"></div>
         </td>
       </tr>
     </tbody>

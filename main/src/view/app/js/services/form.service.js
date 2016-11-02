@@ -9,6 +9,7 @@ export class FormService {
 
   getBlankRoute() {
     return {
+      id: -1,
       routePath: [],
       routeStops: [],
       routeName: '',
@@ -29,9 +30,11 @@ export class FormService {
 
   setCurrentRoute(index) {
     this.mapService.clearMap();
+    if(this.routeList[index].routeDate) {
+      this.routeList[index].routeDate = new Date(this.routeList[index].routeDate);
+    }
     this.currentRoute = Object.assign({}, this.routeList[index]);
     this.currentRoute.index = index;
-
     for(let latlng of this.currentRoute.routeStops) {
       this.mapService.addMarker(latlng);
       this.mapService.currentPathStops.push(latlng);

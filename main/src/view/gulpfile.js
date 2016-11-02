@@ -28,10 +28,6 @@ gulp.task('connect', ['copy'], function () {
 	});
 });
 
-gulp.task('stop-server', function() {
-	connect.serverClose();
-});
-
 gulp.task('test', function() {
   new Server({
     configFile: __dirname + '/karma.conf.js',
