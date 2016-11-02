@@ -15,6 +15,7 @@ class FormController {
 			this.formService.currentRoute.routePath = this.mapService.currentRoutePath._latlngs;
 			console.log(this.formService.currentRoute);
 			this.formService.saveCurrentRoute();
+			this.formService.isEditing = false;
 		} else {
 			if(!this.formService.currentRoute.routeName) {
 				angular.element(document).find('input[type=text]:first').addClass('required');
